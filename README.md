@@ -11,7 +11,7 @@ they want to be able to perform this prediction at every point of the month.
 
 An example of the data is given bellow:
 
-![./resources/example_data.png](Dataset example)
+![Dataset example](./resources/example_data.png)
 
 In the example, we can see data of a user in January 2021.
 
@@ -20,7 +20,7 @@ This user had 2 orders on Jan' 4th and 3 orders on Jan' 25th. In total this user
 The exercise consists on predict the number of order days in August 2022*
 
 
-The challenge consisted on two questions that were developed in this ![./negative_poisson_modelling_supply_optimization.ipynb](notebook):
+The challenge consisted on two questions that were developed in this ![notebook](./negative_poisson_modelling_supply_optimization.ipynb):
 
 1. Build a model for predicting the number of order days for the mentioned month
 2. Explaining the theoretical foundation underlying the data prior-distributions and model choices.
